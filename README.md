@@ -6,9 +6,9 @@
 
 What I am focusing on is making this pre-built code a little cleaner. The steps I took to do that are the following:
 
--Fixed bug issues
--Added a little more structure using HTML semantics
--Tweaked the style a bit more to create a more appealing user experience
+*Fixed bug issues
+*Added a little more structure using HTML semantics
+*Tweaked the style a bit more to create a more appealing user experience
 
 ---
 
