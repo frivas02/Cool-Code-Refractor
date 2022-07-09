@@ -2,7 +2,7 @@
 
 ---
 
-This is my first project.
+##_This is my first project._
 
 What I am focusing on is making this pre-built code a little cleaner. The steps I took to do that are the following:
 
@@ -25,4 +25,8 @@ I outlined and identified different portions of the code with HTML semantics suc
 -<section>
 
 ---
+
+Link to deployed application:
+
+https://frivas02.github.io/Cool-Code-Refractor/
 
