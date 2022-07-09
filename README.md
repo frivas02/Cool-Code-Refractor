@@ -18,11 +18,11 @@ The bug issues were simply issues with clicking links that would not take you to
 
 I outlined and identified different portions of the code with HTML semantics such as:
 
--<nav>
--<header>
--<footer>
--<article>
--<section>
+-nav
+-header
+-footer
+-article
+-section
 
 ---
 
