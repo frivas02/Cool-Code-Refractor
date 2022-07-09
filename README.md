@@ -2,7 +2,7 @@
 
 ---
 
-###### This is my first project.
+This is my first project.
 
 What I am focusing on is making this pre-built code a little cleaner. The steps I took to do that are the following:
 
